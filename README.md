@@ -57,8 +57,7 @@ The Note Taker application provides the following API routes:
 ## Demo
 
 A live demo of the Note Taker application is available [here]
-* *upate link 
-
+https://secret-brushlands-27658-37ce2f72ea78.herokuapp.com/
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
